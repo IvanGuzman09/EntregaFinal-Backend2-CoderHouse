@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/IvanGuzman09/Preentrega1-backend2-coderhouse.git"
+        "url": "git+https://github.com/IvanGuzman09/EntregaFinal-Backend2-CoderHouse.git"
     },
-    "author": "Kevin Alex Muñoz Pascal",
+    "author": "Ivan Guzman",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/IvanGuzman09/Preentrega1-backend2-coderhouse.git"
+        "url": "https://github.com/IvanGuzman09/EntregaFinal-Backend2-CoderHouse.git"
     },
-    "homepage": "https://github.com/IvanGuzman09/Preentrega1-backend2-coderhouse.git",
+    "homepage": "https://github.com/IvanGuzman09/EntregaFinal-Backend2-CoderHouse.git",
     "description": "",
     "dependencies": {
         "bcrypt": "^5.1.1",
